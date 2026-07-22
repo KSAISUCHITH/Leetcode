@@ -10,6 +10,7 @@ Repository containing solution to the leetcode problems solved.
 | [0066-plus-one](https://github.com/KSAISUCHITH/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/KSAISUCHITH/Leetcode/tree/master/0136-single-number) |
 | [0283-move-zeroes](https://github.com/KSAISUCHITH/Leetcode/tree/master/0283-move-zeroes) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/KSAISUCHITH/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Math
 |  |
 | ------- |
