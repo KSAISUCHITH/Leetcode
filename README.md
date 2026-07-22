@@ -6,6 +6,7 @@ Repository containing solution to the leetcode problems solved.
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KSAISUCHITH/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/KSAISUCHITH/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/KSAISUCHITH/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/KSAISUCHITH/Leetcode/tree/master/0136-single-number) |
@@ -23,6 +24,7 @@ Repository containing solution to the leetcode problems solved.
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/KSAISUCHITH/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/KSAISUCHITH/Leetcode/tree/master/0049-group-anagrams) |
 ## String
 |  |
