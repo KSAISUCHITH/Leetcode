@@ -24,6 +24,7 @@ Repository containing solution to the leetcode problems solved.
 | ------- |
 | [0066-plus-one](https://github.com/KSAISUCHITH/Leetcode/tree/master/0066-plus-one) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KSAISUCHITH/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [2235-add-two-integers](https://github.com/KSAISUCHITH/Leetcode/tree/master/2235-add-two-integers) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/KSAISUCHITH/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Bit Manipulation
 |  |
