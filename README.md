@@ -10,6 +10,7 @@ Repository containing solution to the leetcode problems solved.
 | [0049-group-anagrams](https://github.com/KSAISUCHITH/Leetcode/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/KSAISUCHITH/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/KSAISUCHITH/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/KSAISUCHITH/Leetcode/tree/master/0169-majority-element) |
 | [0283-move-zeroes](https://github.com/KSAISUCHITH/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/KSAISUCHITH/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KSAISUCHITH/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -26,6 +27,7 @@ Repository containing solution to the leetcode problems solved.
 | ------- |
 | [0001-two-sum](https://github.com/KSAISUCHITH/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/KSAISUCHITH/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/KSAISUCHITH/Leetcode/tree/master/0169-majority-element) |
 ## String
 |  |
 | ------- |
@@ -34,8 +36,17 @@ Repository containing solution to the leetcode problems solved.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/KSAISUCHITH/Leetcode/tree/master/0049-group-anagrams) |
+| [0169-majority-element](https://github.com/KSAISUCHITH/Leetcode/tree/master/0169-majority-element) |
 ## Two Pointers
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/KSAISUCHITH/Leetcode/tree/master/0283-move-zeroes) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KSAISUCHITH/Leetcode/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/KSAISUCHITH/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
