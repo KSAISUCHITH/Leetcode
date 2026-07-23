@@ -19,6 +19,7 @@ Repository containing solution to the leetcode problems solved.
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/KSAISUCHITH/Leetcode/tree/master/0066-plus-one) |
+| [2600-k-items-with-the-maximum-sum](https://github.com/KSAISUCHITH/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -55,4 +56,8 @@ Repository containing solution to the leetcode problems solved.
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/KSAISUCHITH/Leetcode/tree/master/0053-maximum-subarray) |
+## Greedy
+|  |
+| ------- |
+| [2600-k-items-with-the-maximum-sum](https://github.com/KSAISUCHITH/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 <!---LeetCode Topics End-->
