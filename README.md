@@ -14,6 +14,7 @@ Repository containing solution to the leetcode problems solved.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KSAISUCHITH/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KSAISUCHITH/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/KSAISUCHITH/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/KSAISUCHITH/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/KSAISUCHITH/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/KSAISUCHITH/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KSAISUCHITH/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -37,6 +38,7 @@ Repository containing solution to the leetcode problems solved.
 | [0001-two-sum](https://github.com/KSAISUCHITH/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/KSAISUCHITH/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/KSAISUCHITH/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/KSAISUCHITH/Leetcode/tree/master/0229-majority-element-ii) |
 ## String
 |  |
 | ------- |
@@ -46,6 +48,7 @@ Repository containing solution to the leetcode problems solved.
 | ------- |
 | [0049-group-anagrams](https://github.com/KSAISUCHITH/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/KSAISUCHITH/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/KSAISUCHITH/Leetcode/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +63,7 @@ Repository containing solution to the leetcode problems solved.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/KSAISUCHITH/Leetcode/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/KSAISUCHITH/Leetcode/tree/master/0229-majority-element-ii) |
 ## Dynamic Programming
 |  |
 | ------- |
