@@ -17,6 +17,7 @@ Repository containing solution to the leetcode problems solved.
 | [0229-majority-element-ii](https://github.com/KSAISUCHITH/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/KSAISUCHITH/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/KSAISUCHITH/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/KSAISUCHITH/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KSAISUCHITH/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/KSAISUCHITH/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KSAISUCHITH/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -83,4 +84,12 @@ Repository containing solution to the leetcode problems solved.
 |  |
 | ------- |
 | [1672-richest-customer-wealth](https://github.com/KSAISUCHITH/Leetcode/tree/master/1672-richest-customer-wealth) |
+## Binary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/KSAISUCHITH/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/KSAISUCHITH/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
