@@ -13,6 +13,7 @@ Repository containing solution to the leetcode problems solved.
 | [0118-pascals-triangle](https://github.com/KSAISUCHITH/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KSAISUCHITH/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KSAISUCHITH/Leetcode/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KSAISUCHITH/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/KSAISUCHITH/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KSAISUCHITH/Leetcode/tree/master/0229-majority-element-ii) |
 | [0283-move-zeroes](https://github.com/KSAISUCHITH/Leetcode/tree/master/0283-move-zeroes) |
@@ -54,6 +55,7 @@ Repository containing solution to the leetcode problems solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KSAISUCHITH/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/KSAISUCHITH/Leetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KSAISUCHITH/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Divide and Conquer
@@ -87,6 +89,7 @@ Repository containing solution to the leetcode problems solved.
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/KSAISUCHITH/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KSAISUCHITH/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Ternary Search
 |  |
