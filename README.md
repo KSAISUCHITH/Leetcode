@@ -10,6 +10,7 @@ Repository containing solution to the leetcode problems solved.
 | [0049-group-anagrams](https://github.com/KSAISUCHITH/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KSAISUCHITH/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/KSAISUCHITH/Leetcode/tree/master/0066-plus-one) |
+| [0075-sort-colors](https://github.com/KSAISUCHITH/Leetcode/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/KSAISUCHITH/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KSAISUCHITH/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/KSAISUCHITH/Leetcode/tree/master/0136-single-number) |
@@ -50,11 +51,13 @@ Repository containing solution to the leetcode problems solved.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/KSAISUCHITH/Leetcode/tree/master/0049-group-anagrams) |
+| [0075-sort-colors](https://github.com/KSAISUCHITH/Leetcode/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/KSAISUCHITH/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KSAISUCHITH/Leetcode/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/KSAISUCHITH/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KSAISUCHITH/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/KSAISUCHITH/Leetcode/tree/master/0283-move-zeroes) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KSAISUCHITH/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
@@ -95,4 +98,12 @@ Repository containing solution to the leetcode problems solved.
 |  |
 | ------- |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KSAISUCHITH/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+## Quicksort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KSAISUCHITH/Leetcode/tree/master/0075-sort-colors) |
+## Bubble Sort
+|  |
+| ------- |
+| [0075-sort-colors](https://github.com/KSAISUCHITH/Leetcode/tree/master/0075-sort-colors) |
 <!---LeetCode Topics End-->
