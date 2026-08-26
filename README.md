@@ -7,6 +7,7 @@ Repository containing solution to the leetcode problems solved.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/KSAISUCHITH/Leetcode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/KSAISUCHITH/Leetcode/tree/master/0011-container-with-most-water) |
 | [0049-group-anagrams](https://github.com/KSAISUCHITH/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/KSAISUCHITH/Leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/KSAISUCHITH/Leetcode/tree/master/0066-plus-one) |
@@ -57,6 +58,7 @@ Repository containing solution to the leetcode problems solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KSAISUCHITH/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/KSAISUCHITH/Leetcode/tree/master/0075-sort-colors) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KSAISUCHITH/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/KSAISUCHITH/Leetcode/tree/master/0283-move-zeroes) |
@@ -80,6 +82,7 @@ Repository containing solution to the leetcode problems solved.
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/KSAISUCHITH/Leetcode/tree/master/0011-container-with-most-water) |
 | [2600-k-items-with-the-maximum-sum](https://github.com/KSAISUCHITH/Leetcode/tree/master/2600-k-items-with-the-maximum-sum) |
 ## Simulation
 |  |
