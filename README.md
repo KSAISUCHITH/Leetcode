@@ -21,6 +21,7 @@ Repository containing solution to the leetcode problems solved.
 | [0283-move-zeroes](https://github.com/KSAISUCHITH/Leetcode/tree/master/0283-move-zeroes) |
 | [0485-max-consecutive-ones](https://github.com/KSAISUCHITH/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KSAISUCHITH/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/KSAISUCHITH/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KSAISUCHITH/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/KSAISUCHITH/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KSAISUCHITH/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
@@ -97,6 +98,7 @@ Repository containing solution to the leetcode problems solved.
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/KSAISUCHITH/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KSAISUCHITH/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/KSAISUCHITH/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Ternary Search
 |  |
 | ------- |
@@ -109,4 +111,12 @@ Repository containing solution to the leetcode problems solved.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/KSAISUCHITH/Leetcode/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/KSAISUCHITH/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1004-max-consecutive-ones-iii](https://github.com/KSAISUCHITH/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
