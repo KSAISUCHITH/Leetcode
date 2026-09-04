@@ -22,6 +22,7 @@ Repository containing solution to the leetcode problems solved.
 | [0485-max-consecutive-ones](https://github.com/KSAISUCHITH/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0713-subarray-product-less-than-k](https://github.com/KSAISUCHITH/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KSAISUCHITH/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0904-fruit-into-baskets](https://github.com/KSAISUCHITH/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/KSAISUCHITH/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KSAISUCHITH/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/KSAISUCHITH/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -45,6 +46,7 @@ Repository containing solution to the leetcode problems solved.
 | [0049-group-anagrams](https://github.com/KSAISUCHITH/Leetcode/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/KSAISUCHITH/Leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/KSAISUCHITH/Leetcode/tree/master/0229-majority-element-ii) |
+| [0904-fruit-into-baskets](https://github.com/KSAISUCHITH/Leetcode/tree/master/0904-fruit-into-baskets) |
 ## String
 |  |
 | ------- |
@@ -117,6 +119,7 @@ Repository containing solution to the leetcode problems solved.
 |  |
 | ------- |
 | [0713-subarray-product-less-than-k](https://github.com/KSAISUCHITH/Leetcode/tree/master/0713-subarray-product-less-than-k) |
+| [0904-fruit-into-baskets](https://github.com/KSAISUCHITH/Leetcode/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/KSAISUCHITH/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
