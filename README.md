@@ -27,6 +27,7 @@ Repository containing solution to the leetcode problems solved.
 | [0724-find-pivot-index](https://github.com/KSAISUCHITH/Leetcode/tree/master/0724-find-pivot-index) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/KSAISUCHITH/Leetcode/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0904-fruit-into-baskets](https://github.com/KSAISUCHITH/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KSAISUCHITH/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/KSAISUCHITH/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KSAISUCHITH/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/KSAISUCHITH/Leetcode/tree/master/1672-richest-customer-wealth) |
@@ -54,6 +55,7 @@ Repository containing solution to the leetcode problems solved.
 | [0523-continuous-subarray-sum](https://github.com/KSAISUCHITH/Leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/KSAISUCHITH/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/KSAISUCHITH/Leetcode/tree/master/0904-fruit-into-baskets) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KSAISUCHITH/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -138,6 +140,7 @@ Repository containing solution to the leetcode problems solved.
 | [0560-subarray-sum-equals-k](https://github.com/KSAISUCHITH/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/KSAISUCHITH/Leetcode/tree/master/0713-subarray-product-less-than-k) |
 | [0724-find-pivot-index](https://github.com/KSAISUCHITH/Leetcode/tree/master/0724-find-pivot-index) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/KSAISUCHITH/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/KSAISUCHITH/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 ## Pigeonhole Principle
 |  |
