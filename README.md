@@ -33,6 +33,7 @@ Repository containing solution to the leetcode problems solved.
 | [1004-max-consecutive-ones-iii](https://github.com/KSAISUCHITH/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/KSAISUCHITH/Leetcode/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1672-richest-customer-wealth](https://github.com/KSAISUCHITH/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KSAISUCHITH/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/KSAISUCHITH/Leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/KSAISUCHITH/Leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Math
@@ -97,6 +98,7 @@ Repository containing solution to the leetcode problems solved.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KSAISUCHITH/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/KSAISUCHITH/Leetcode/tree/master/0152-maximum-product-subarray) |
 | [0918-maximum-sum-circular-subarray](https://github.com/KSAISUCHITH/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+| [1749-maximum-absolute-sum-of-any-subarray](https://github.com/KSAISUCHITH/Leetcode/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Greedy
 |  |
 | ------- |
