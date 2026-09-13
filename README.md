@@ -62,6 +62,7 @@ Repository containing solution to the leetcode problems solved.
 ## String
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KSAISUCHITH/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0049-group-anagrams](https://github.com/KSAISUCHITH/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/KSAISUCHITH/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KSAISUCHITH/Leetcode/tree/master/0344-reverse-string) |
@@ -78,6 +79,7 @@ Repository containing solution to the leetcode problems solved.
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KSAISUCHITH/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0011-container-with-most-water](https://github.com/KSAISUCHITH/Leetcode/tree/master/0011-container-with-most-water) |
 | [0075-sort-colors](https://github.com/KSAISUCHITH/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/KSAISUCHITH/Leetcode/tree/master/0125-valid-palindrome) |
@@ -101,6 +103,7 @@ Repository containing solution to the leetcode problems solved.
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/KSAISUCHITH/Leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/KSAISUCHITH/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/KSAISUCHITH/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KSAISUCHITH/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -171,4 +174,8 @@ Repository containing solution to the leetcode problems solved.
 |  |
 | ------- |
 | [0918-maximum-sum-circular-subarray](https://github.com/KSAISUCHITH/Leetcode/tree/master/0918-maximum-sum-circular-subarray) |
+## Manacher
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/KSAISUCHITH/Leetcode/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
