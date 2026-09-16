@@ -17,7 +17,7 @@ class Solution {
                 s2count[s2.charAt(left)-'a']--;
                 left++;
             }
-            if(Arrays.equals(s1count,s2count)){
+            if((right-left+1 == s1.length())&&(Arrays.equals(s1count,s2count))){
                 return true;
             }
         }
