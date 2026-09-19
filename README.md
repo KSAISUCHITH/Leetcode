@@ -69,6 +69,7 @@ Repository containing solution to the leetcode problems solved.
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/KSAISUCHITH/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/KSAISUCHITH/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/KSAISUCHITH/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/KSAISUCHITH/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/KSAISUCHITH/Leetcode/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/KSAISUCHITH/Leetcode/tree/master/0344-reverse-string) |
@@ -113,6 +114,7 @@ Repository containing solution to the leetcode problems solved.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KSAISUCHITH/Leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/KSAISUCHITH/Leetcode/tree/master/0010-regular-expression-matching) |
 | [0053-maximum-subarray](https://github.com/KSAISUCHITH/Leetcode/tree/master/0053-maximum-subarray) |
 | [0118-pascals-triangle](https://github.com/KSAISUCHITH/Leetcode/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/KSAISUCHITH/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -192,4 +194,8 @@ Repository containing solution to the leetcode problems solved.
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/KSAISUCHITH/Leetcode/tree/master/0005-longest-palindromic-substring) |
+## Recursion
+|  |
+| ------- |
+| [0010-regular-expression-matching](https://github.com/KSAISUCHITH/Leetcode/tree/master/0010-regular-expression-matching) |
 <!---LeetCode Topics End-->
